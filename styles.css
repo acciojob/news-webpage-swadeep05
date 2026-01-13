@@ -16,8 +16,8 @@ header{
 	border-radius: 8px;
 	padding: 20px;
 }
-.latest-news-section ul{
-	margin-left: 5px;
+li{
+	padding-left: 15px;
 }
 .box2{
 	background-color: white;
